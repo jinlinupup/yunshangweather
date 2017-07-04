@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="happybirthday"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.hentaier.happybirthday.db.Province"></mapping>
+        <mapping class="com.hentaier.happybirthday.db.City"></mapping>
+        <mapping class="com.hentaier.happybirthday.db.County"></mapping>
+    </list>
+
